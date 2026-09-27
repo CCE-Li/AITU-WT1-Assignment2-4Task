@@ -9,3 +9,4 @@
 
 ## Workflow & Tooling
 - Develops web projects (HTML/CSS/JS with components loaded via `fetch`) in VS Code and relies on the Live Server extension to serve them locally. Confidence: 0.5
+- Ships/hosts their web projects on GitHub Pages (deploys the repo as a project site under a `/<repo>/` subpath), so code must work both on local Live Server and on GitHub Pages. Confidence: 0.6
